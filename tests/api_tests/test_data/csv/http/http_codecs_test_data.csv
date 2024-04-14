@@ -1,0 +1,9 @@
+language,audio_file,content_encoding,content_type,status,recognition_status,confidence_score_min,rtf_max
+en-US,en-US_amr_nb.amr,base64,text/plain,Success,Transcribed,60,5
+en-US,en-US_amr_wb.amr,base64,text/plain,Success,Transcribed,60,5
+en-US,en-US_g711_alaw.wav,base64,text/plain,Success,Transcribed,60,5
+en-US,en-US_g711_mulaw.wav,base64,text/plain,Success,Transcribed,60,5
+en-US,en-US_gsm610.gsm,base64,text/plain,Success,Transcribed,60,5
+en-US,en-US_ima_adpcm.wav,base64,text/plain,Success,Transcribed,60,5
+en-US,en-US_lpcm.wav,base64,text/plain,Success,Transcribed,60,5
+en-US,en-US_mpeg.mp3,base64,text/plain,Success,Transcribed,60,5
